@@ -1,3 +1,4 @@
 # Simple Docker
 
-- Simple Python pp for creting ocker imge
+- Simple Python app for creating docker imge
+- Running application using docker
